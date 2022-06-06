@@ -5,11 +5,6 @@
 */
 int main(void)
 {
-int intType;
-float floatType;
-double doubleType;
-char charType;
-
 /*sizeof evaluates the size of a variable*/
 printf("Size of char: %d byte\n", sizeof(char));
 printf("Size of int: %d bytes\n", sizeof(int));
